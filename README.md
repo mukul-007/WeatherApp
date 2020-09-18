@@ -1,4 +1,4 @@
-# weatherapp
+# WeatherApp
 ●	Whats The Weather App: A weather application implemented in android with the best practices like providers, Location Managers and API.
 
 
